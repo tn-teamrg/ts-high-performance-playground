@@ -1,0 +1,12 @@
+console.info(`[INFO] -- operators.ts`);
+console.log('');
+console.info(`[INFO] -- arithmetic operators`);
+console.log('');
+console.info(`[INFO] -- relational operators`);
+console.log('');
+console.info(`[INFO] -- logical operators`);
+console.log('');
+console.info(`[INFO] -- bitwise operators`);
+console.log('');
+console.info(`[INFO] -- compound assignment operators`);
+console.log('');

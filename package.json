@@ -1,0 +1,27 @@
+{
+  "name": "ts-high-performance-playground",
+  "version": "1.0.0",
+  "description": "high performance typescript examples",
+  "scripts": {
+    "dev": "lite-server",
+    "strings": "tsc strings.ts",
+    "str-cat": "tsc string-concat.ts",
+    "str-replace": "tsc string-replacement.ts",
+    "factory": "tsc factory-method.ts",
+    "loops-cond": "tsc loops-conditions.ts",
+    "arr": "tsc arrays-sorting.ts",
+    "op": "tsc operators.ts",
+    "clean": "rm *.js"
+  },
+  "keywords": [
+    "typescript",
+    "high",
+    "performance",
+    "ts"
+  ],
+  "author": "Thanh Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
